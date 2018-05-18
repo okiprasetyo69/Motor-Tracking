@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213238899281",
+    "firebase_url": "https://motortracking-aa6ed.firebaseio.com",
+    "project_id": "motortracking-aa6ed",
+    "storage_bucket": "motortracking-aa6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213238899281:android:b1602db66b9db8c8",
+        "android_client_info": {
+          "package_name": "com.example.okiprasetyo.motortracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213238899281-l5qcjnps1mu4jis9hj0a4ttkv8hjho2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okiprasetyo.motortracking",
+            "certificate_hash": "33ed6e47168f722e82618e931488bc3fc63c5335"
+          }
+        },
+        {
+          "client_id": "213238899281-075fjfn52hd0r7angkv7n4j6uf0tf1h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH549q4sDfHEGDK768glIdWos6Pj6LysE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213238899281-075fjfn52hd0r7angkv7n4j6uf0tf1h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
